@@ -1,0 +1,244 @@
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\appsettings.json
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.exe
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.deps.json
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.runtimeconfig.json
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\ref\Food_Delivery_App_API.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.pdb
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.AssemblyInfo.cs
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\staticwebassets\Food_Delivery_App_API.StaticWebAssets.Manifest.cache
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\staticwebassets\Food_Delivery_App_API.StaticWebAssets.xml
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\scopedcss\bundle\Food_Delivery_App_API.styles.css
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.RazorTargetAssemblyInfo.cache
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.csproj.CopyComplete
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\ref\Food_Delivery_App_API.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.pdb
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.genruntimeconfig.cache
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\appsettings.Development.json
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\appsettings.json
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.exe
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.deps.json
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.runtimeconfig.json
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.runtimeconfig.dev.json
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\ref\Food_Delivery_App_API.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.pdb
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Humanizer.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.csproj.AssemblyReference.cache
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.AssemblyInfoInputs.cache
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.AssemblyInfo.cs
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.csproj.CoreCompileInputs.cache
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.MvcApplicationPartsAssemblyInfo.cs
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.MvcApplicationPartsAssemblyInfo.cache
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\staticwebassets\Food_Delivery_App_API.StaticWebAssets.Manifest.cache
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\staticwebassets\Food_Delivery_App_API.StaticWebAssets.xml
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\scopedcss\bundle\Food_Delivery_App_API.styles.css
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.RazorTargetAssemblyInfo.cache
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.csproj.CopyComplete
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\ref\Food_Delivery_App_API.dll
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.pdb
+E:\IDigitalProject1\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.genruntimeconfig.cache
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\appsettings.Development.json
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\appsettings.json
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.exe
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.deps.json
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.runtimeconfig.json
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.runtimeconfig.dev.json
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\ref\Food_Delivery_App_API.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.pdb
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Humanizer.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.csproj.AssemblyReference.cache
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.AssemblyInfoInputs.cache
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.AssemblyInfo.cs
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.csproj.CoreCompileInputs.cache
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.MvcApplicationPartsAssemblyInfo.cs
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.MvcApplicationPartsAssemblyInfo.cache
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\staticwebassets\Food_Delivery_App_API.StaticWebAssets.Manifest.cache
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\staticwebassets\Food_Delivery_App_API.StaticWebAssets.xml
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\scopedcss\bundle\Food_Delivery_App_API.styles.css
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.RazorTargetAssemblyInfo.cache
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.csproj.CopyComplete
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\ref\Food_Delivery_App_API.dll
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.pdb
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.genruntimeconfig.cache
+E:\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\admin\Desktop\Food Delivery App\iDigital8--Online-Food-Delivery-Application\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\appsettings.Development.json
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\appsettings.json
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.exe
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.deps.json
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.runtimeconfig.json
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.runtimeconfig.dev.json
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\ref\Food_Delivery_App_API.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Food_Delivery_App_API.pdb
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Humanizer.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.csproj.AssemblyReference.cache
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.AssemblyInfoInputs.cache
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.AssemblyInfo.cs
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.csproj.CoreCompileInputs.cache
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.MvcApplicationPartsAssemblyInfo.cs
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.MvcApplicationPartsAssemblyInfo.cache
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\staticwebassets\Food_Delivery_App_API.StaticWebAssets.Manifest.cache
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\staticwebassets\Food_Delivery_App_API.StaticWebAssets.xml
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\scopedcss\bundle\Food_Delivery_App_API.styles.css
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.RazorTargetAssemblyInfo.cache
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.csproj.CopyComplete
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\ref\Food_Delivery_App_API.dll
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.pdb
+E:\SANGI\iDigital8--Online-Food-Delivery-Application\FooddeliveryBackend\Food_Delivery_App\Food_Delivery_App_API\obj\Debug\net5.0\Food_Delivery_App_API.genruntimeconfig.cache
