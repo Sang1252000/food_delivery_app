@@ -5660,11 +5660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SANGI\\iDigital8--Online-Food-Delivery-Application\\FooddeliveryBackend\\Food_Delivery_App\\Food_Delivery_App_API\\Food_Delivery_App_API.csproj",
-      "projectName": "Food_Delivery_App_API",
-      "projectPath": "E:\\SANGI\\iDigital8--Online-Food-Delivery-Application\\FooddeliveryBackend\\Food_Delivery_App\\Food_Delivery_App_API\\Food_Delivery_App_API.csproj",
+      "projectUniqueName": "D:\\fooddeliveryapp\\food_delivery_app\\Food_Delivery_App_API\\food_delivery_app_api.csproj",
+      "projectName": "food_delivery_app_api",
+      "projectPath": "D:\\fooddeliveryapp\\food_delivery_app\\Food_Delivery_App_API\\food_delivery_app_api.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\SANGI\\iDigital8--Online-Food-Delivery-Application\\FooddeliveryBackend\\Food_Delivery_App\\Food_Delivery_App_API\\obj\\",
+      "outputPath": "D:\\fooddeliveryapp\\food_delivery_app\\Food_Delivery_App_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

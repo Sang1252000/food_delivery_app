@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SANGI\\iDigital8--Online-Food-Delivery-Application\\FooddeliveryBackend\\Food_Delivery_App\\Food_Delivery_App_API\\food_delivery_app_api.csproj": {}
+    "D:\\fooddeliveryapp\\food_delivery_app\\Food_Delivery_App_API\\food_delivery_app_api.csproj": {}
   },
   "projects": {
-    "E:\\SANGI\\iDigital8--Online-Food-Delivery-Application\\FooddeliveryBackend\\Food_Delivery_App\\Food_Delivery_App_API\\food_delivery_app_api.csproj": {
+    "D:\\fooddeliveryapp\\food_delivery_app\\Food_Delivery_App_API\\food_delivery_app_api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SANGI\\iDigital8--Online-Food-Delivery-Application\\FooddeliveryBackend\\Food_Delivery_App\\Food_Delivery_App_API\\food_delivery_app_api.csproj",
+        "projectUniqueName": "D:\\fooddeliveryapp\\food_delivery_app\\Food_Delivery_App_API\\food_delivery_app_api.csproj",
         "projectName": "food_delivery_app_api",
-        "projectPath": "E:\\SANGI\\iDigital8--Online-Food-Delivery-Application\\FooddeliveryBackend\\Food_Delivery_App\\Food_Delivery_App_API\\food_delivery_app_api.csproj",
+        "projectPath": "D:\\fooddeliveryapp\\food_delivery_app\\Food_Delivery_App_API\\food_delivery_app_api.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\SANGI\\iDigital8--Online-Food-Delivery-Application\\FooddeliveryBackend\\Food_Delivery_App\\Food_Delivery_App_API\\obj\\",
+        "outputPath": "D:\\fooddeliveryapp\\food_delivery_app\\Food_Delivery_App_API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
